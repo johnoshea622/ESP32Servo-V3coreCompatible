@@ -33,7 +33,7 @@
  * Experimentally, 550 and 2350 are pretty close to 0 and 180.
  */
 
-#include <ESP32Servo.h>
+#include <ESP32ServoV3.h>
 
 // create four servo objects 
 Servo servo1;
