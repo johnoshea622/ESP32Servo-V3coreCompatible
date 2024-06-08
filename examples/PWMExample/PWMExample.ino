@@ -1,4 +1,4 @@
-#include <ESP32Servo.h>
+#include <ESP32ServoV3.h>
 int APin = 13;
 ESP32PWM pwm;
 int freq = 1000;
