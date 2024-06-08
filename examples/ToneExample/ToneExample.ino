@@ -3,7 +3,7 @@
 
  */
 
-#include <ESP32Servo.h>
+#include <ESP32ServoV3.h>
 int pin = 2;
 void setup() {
 	// Allow allocation of all timers
