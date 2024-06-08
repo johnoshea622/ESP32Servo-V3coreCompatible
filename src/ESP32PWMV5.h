@@ -1,5 +1,5 @@
 /*
- * ESP32PWMV3.h
+ * ESP32PWMV5.h
  *
  *  Created on: Sep 22, 2018
  *      Author: hephaestus

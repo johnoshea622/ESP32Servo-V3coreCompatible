@@ -5,7 +5,7 @@
  *      Author: hephaestus
  */
 
-#include <ESP32PWMV3.h>
+#include <ESP32PWMV5.h>
 #include "esp32-hal-ledc.h"
 #include <cstddef>
 #include <cmath>

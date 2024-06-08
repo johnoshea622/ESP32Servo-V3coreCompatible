@@ -1,3 +1,5 @@
+//compatible with version 5+ of Esspresif IDF where the ledc library was updated thus breaking previous versions of this repo
+
 /*
   Copyright (c) 2017 John K. Bennett. All right reserved.
 
@@ -65,7 +67,7 @@
 #ifndef ESP32_Servo_h
 #define ESP32_Servo_h
 
-#include "ESP32PWMV3.h"
+#include "ESP32PWMV5.h"
 
 // Enforce only using PWM pins on the ESP32
 #define ENFORCE_PINS
