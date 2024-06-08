@@ -3,7 +3,7 @@
 Specifically for the V3.0.0 of Arduino ESP32. All ADC's have been updated to work correctly with the new release
 
 # Fork specific changes
-This was further updated with code base to reflect changes in the ESP IDF. These changes  remove old functions ledcAttachPin and ledcDetachPin.
+Specifically for V5.22+ of Esspresif IDF where ledc libraries were updated. These changes  remove old functions ledcAttachPin and ledcDetachPin.
 New functions ledcAttach and ledcDetach added and code modified for new parameters suc as allowing direct entry of pin parameters.
 
 https://github.com/espressif/arduino-esp32/releases
