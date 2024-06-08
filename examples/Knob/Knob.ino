@@ -37,7 +37,7 @@
  */
 
 // Include the ESP32 Arduino Servo Library instead of the original Arduino Servo Library
-#include <ESP32Servo.h> 
+#include <ESP32ServoV3.h> 
 
 Servo myservo;  // create servo object to control a servo
 
