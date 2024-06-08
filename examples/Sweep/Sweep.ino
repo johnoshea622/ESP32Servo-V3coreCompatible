@@ -36,7 +36,7 @@
  * if you are particular, adjust the min and max values to match your needs.
  */
 
-#include <ESP32Servo.h>
+#include <ESP32ServoV3.h>
 
 Servo myservo;  // create servo object to control a servo
 // 16 servo objects can be created on the ESP32
